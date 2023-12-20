@@ -3,12 +3,8 @@
 ## Objectifs :
 
 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-|![Apache_NetBeans_Logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/eb74be0e-a6ba-478c-a792-3344006ba784)
-![HTML5_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/1f2151e2-e5d0-43f0-a181-8297f4834cf8)
-![CSS3_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/488bf3b4-9cc9-44ea-9827-53cb0f5dfe95)
-![Bootstrap_logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/5f19b33e-3947-403d-a73e-ae7c4935787d)
-![Git-logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/01e42cc3-c6cc-4895-acd9-d04fec6bee87)
-![25231](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/a015c1f0-f03e-4374-9f93-131e4b8b2187)|
+|![Apache_NetBeans_Logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/eb74be0e-a6ba-478c-a792-3344006ba784)|![HTML5_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/1f2151e2-e5d0-43f0-a181-8297f4834cf8)|![CSS3_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/488bf3b4-9cc9-44ea-9827-53cb0f5dfe95)|![Bootstrap_logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/5f19b33e-3947-403d-a73e-ae7c4935787d)|![Git-logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/01e42cc3-c6cc-4895-acd9-d04fec6bee87)|![25231](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/a015c1f0-f03e-4374-9f93-131e4b8b2187)|
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 
    - NetBeans : Environnement de développment intégré (IDE) utilisé poiur ce projet
@@ -19,7 +15,7 @@
    - GitHub : Forge logicielle en ligne utilisant Git
   
   
-2. Pour l'épreuve E4
+3. Pour l'épreuve E4
    - Je me présente et présente mon parcours, j'affiche mon CV
    - Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
    - Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
@@ -31,7 +27,7 @@
      - Gestion de version, développement collaboratif et gestion d'incidents
    - Je présente la façon dont j'organise ma veille et la façon dont je m'en sert
 
-3. Pour l'épreuve E5
+4. Pour l'épreuve E5
   - J'héberge les documents présentant le contexte de mes AP
   - J'héberge le code source de mes AP
   - J'héberge mes productions (compte-rendus, documentations techniques, documentations utilisateurs, ...)
