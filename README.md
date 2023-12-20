@@ -3,8 +3,7 @@
 ## Objectifs :
 
 ### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-| ![NetBeans-Logo wine](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/81a44a4a-56a0-427b-9fb3-28affda8f950) | ![HTML5_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/1f2151e2-e5d0-43f0-a181-8297f4834cf8) | ![CSS3_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/488bf3b4-9cc9-44ea-9827-53cb0f5dfe95) | ![Bootstrap_logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/5f19b33e-3947-403d-a73e-ae7c4935787d) | ![4494748](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/6eb4bb4a-4b35-489c-b393-31852e24022d) | ![2111425](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/6006e6ad-9d6b-45b4-88e1-5ae23de39580)
-|
+| ![NetBeans-Logo wine](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/81a44a4a-56a0-427b-9fb3-28affda8f950) | ![HTML5_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/1f2151e2-e5d0-43f0-a181-8297f4834cf8) | ![CSS3_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/488bf3b4-9cc9-44ea-9827-53cb0f5dfe95) | ![Bootstrap_logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/5f19b33e-3947-403d-a73e-ae7c4935787d) | ![4494748](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/6eb4bb4a-4b35-489c-b393-31852e24022d) | ![2111425](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/6006e6ad-9d6b-45b4-88e1-5ae23de39580)|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 
