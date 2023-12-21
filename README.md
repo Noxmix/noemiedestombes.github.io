@@ -3,7 +3,7 @@
 ## Objectifs :
 
 ### 1. Mettre en oeuvre les technologies web pour créer et héberger mon portfolio
-| ![NetBeans-Logo wine](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/81a44a4a-56a0-427b-9fb3-28affda8f950) | ![HTML5_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/1f2151e2-e5d0-43f0-a181-8297f4834cf8) | ![CSS3_logo_and_wordmark svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/488bf3b4-9cc9-44ea-9827-53cb0f5dfe95) | ![Bootstrap_logo svg](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/5f19b33e-3947-403d-a73e-ae7c4935787d) | ![4494748](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/6eb4bb4a-4b35-489c-b393-31852e24022d) | ![image](https://github.com/Noctopia/noemiedestombes.github.io/assets/92525600/a4268fa5-9cac-4f67-a91b-7d93631dbabe)|
+|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/4b0bf435-d784-4c11-a364-32116305bc87)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/2ed2bff6-a81d-4d68-89a7-1aa92b2822df)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/088f6f8a-c4ca-4bb4-b361-860688769cac)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/aa80f0a8-445e-4426-8832-35ef695ccc62)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/d33b210a-9361-4885-ab3e-1d180a67767a)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/717c7346-37fc-4f41-85d6-fa0d72ae107f)|
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 
